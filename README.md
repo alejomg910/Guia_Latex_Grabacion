@@ -7,6 +7,7 @@ Latex no es un lenguaje de programación, es un sistema (no trabaja bajo una log
  - Informes
 
 Los compiladores nos permiten converitr las instrucciones que le di para hacer el documento. Aunque cumplen la misma función, unos son mas eficientes con ciertas cosas pero con otras no.
+Ej: Overleaf, TexStudio, Texifier (pago para Mac), ...
 
 **Compilador Overleaf:**
 
@@ -21,3 +22,6 @@ Templates (o plantillas): El alcance que realmente tiene Latex y lo que se puede
 
 Overleaf tiene una limitante en cuanto a peso (lo mas probable), mas que por contenido, es más versatil en cuanto a Word (pero mas que todo en el campo de las ciencias duras) debido a que todo esta enfocado en circuitos, ecuaciones, graficas, tablas, etc.
 
+
+**Creación de proyectos:**
+minuto 29:30
